@@ -326,34 +326,6 @@ Compile Again
 
 ---
 
-# 📦 Available Scripts
-
-```bash
-npm run dev
-```
-
-Starts the development server.
-
-```bash
-npm run build
-```
-
-Creates the production build.
-
-```bash
-npm run preview
-```
-
-Runs the production build locally.
-
-```bash
-npm run lint
-```
-
-Checks for linting issues.
-
----
-
 # 🔒 Privacy
 
 Everything runs locally in your browser.
@@ -367,20 +339,6 @@ Everything runs locally in your browser.
 - No user tracking
 
 Your LaTeX files never leave your device.
-
----
-
-# 🚀 Roadmap
-
-- [ ] Multi-file LaTeX projects
-- [ ] BibTeX support
-- [ ] TikZ improvements
-- [ ] Theme support
-- [ ] Project templates
-- [ ] Auto-save history
-- [ ] AI provider integrations
-- [ ] Plugin architecture
-- [ ] Keyboard shortcuts customization
 
 ---
 
@@ -426,9 +384,7 @@ Please include:
 
 # 📄 License
 
-This project is licensed under the MIT License.
-
-See the **LICENSE** file for more information.
+No License required , Feel free to use it .
 
 ---
 
