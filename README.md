@@ -2,7 +2,6 @@
 
 > Offline-first, privacy-focused LaTeX debugging platform that fixes AI-generated LaTeX errors and compiles PDFs directly in the browser using WebAssembly.
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![React](https://img.shields.io/badge/React-TypeScript-61DAFB)
 ![PWA](https://img.shields.io/badge/PWA-Enabled-purple)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-pdfLaTeX-orange)
