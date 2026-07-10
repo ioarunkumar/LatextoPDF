@@ -26,16 +26,6 @@
 
 ---
 
-# 📸 Screenshots
-
-> Replace these images with your own screenshots.
-
-| Editor | PDF Preview |
-|--------|-------------|
-| ![](docs/images/editor.png) | ![](docs/images/pdf-preview.png) |
-
----
-
 # 🚀 Live Demo
 
 [Demo link](https://latextopdf01.newhoster0002.workers.dev/)
