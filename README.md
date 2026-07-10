@@ -260,45 +260,6 @@ RewriteRule . /index.html [L]
 
 ---
 
-## Docker
-
-```dockerfile
-FROM node:22-alpine AS build
-
-WORKDIR /app
-
-COPY . .
-
-RUN npm install
-
-RUN npm run build
-
-FROM nginx:alpine
-
-COPY --from=build /app/dist /usr/share/nginx/html
-
-EXPOSE 80
-
-CMD ["nginx","-g","daemon off;"]
-```
-
-Build
-
-```bash
-docker build -t latexpdf .
-```
-
-Run
-
-```bash
-docker run -d \
--p 80:80 \
---restart always \
-latexpdf
-```
-
----
-
 ## Static Hosting
 
 Compatible with
