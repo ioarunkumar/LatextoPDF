@@ -38,7 +38,7 @@
 
 # 🚀 Live Demo
 
-Deploy your own instance by following the deployment guide below.
+[Demo link](https://latextopdf01.newhoster0002.workers.dev/)
 
 ---
 
